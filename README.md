@@ -9,7 +9,10 @@ riddhimanroy1010/riddhimanroy1010 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riddhimanroy1010)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimanroy1010)](https://github.com/anuraghazra/github-readme-stats)
+[![Riddhiman Roy's Stats](https://github-readme-stats.vercel.app/api?username=riddhimanroy1010)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddhimanroy1010)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
 
 
